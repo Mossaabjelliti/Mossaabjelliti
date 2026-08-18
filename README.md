@@ -15,7 +15,7 @@ Flutter · Dart · Drift/SQLite · Supabase · PostgreSQL · RBAC · Synchroniza
 
 A production-oriented business application designed around offline operation, inventory management, sales, invoicing, customer credit, analytics, and cloud synchronization.
 
-### 📊 [Tunisia Real Estate Predictor](https://github.com/Mossaabjelliti/tunisia-realestate-predictor)
+### 📊 [Tunisia Real Estate Predictor](https://github.com/Mossaabjelliti/tunisia-real-estate-predictor)
 **Machine learning pipeline for Tunisian property-price estimation**
 
 Python · Pandas · Scikit-learn · XGBoost · FastAPI · Web Scraping
@@ -67,9 +67,9 @@ PostgreSQL · Supabase · Firebase · SQLite · Git · GitHub · Docker
 
 ## Contact
 
-📧 **Email:** [Add your professional email here](mailto:YOUR_EMAIL@example.com)
+📧 **Email:** [mossaab.jlt@gmail.com](mailto:mossaab.jlt@gmail.com)
 
-💼 **LinkedIn:** [Add LinkedIn profile](https://www.linkedin.com/)
+💼 **LinkedIn:** [linkedin.com/in/mossaabjelliti](https://www.linkedin.com/in/mossaabjelliti/)
 
 📍 Tunisia
 
