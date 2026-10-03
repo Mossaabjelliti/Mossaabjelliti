@@ -8,28 +8,28 @@ Based in Tunisia 🇹🇳
 
 ## Featured projects
 
-### 🚀 [Stocki](https://github.com/Mossaabjelliti/Stocki)
+###  [Stocki](https://github.com/Mossaabjelliti/Stocki)
 **Offline-first business management & POS platform**
 
 Flutter · Dart · Drift/SQLite · Supabase · PostgreSQL · RBAC · Synchronization
 
 A production-oriented business application designed around offline operation, inventory management, sales, invoicing, customer credit, analytics, and cloud synchronization.
 
-### 📊 [Tunisia Real Estate Predictor](https://github.com/Mossaabjelliti/tunisia-real-estate-predictor)
+###  [Tunisia Real Estate Predictor](https://github.com/Mossaabjelliti/tunisia-real-estate-predictor)
 **Machine learning pipeline for Tunisian property-price estimation**
 
 Python · Pandas · Scikit-learn · XGBoost · FastAPI · Web Scraping
 
 An end-to-end data science project covering data collection, cleaning, feature engineering, regression modeling, evaluation, and API serving.
 
-### 🤖 [Arabic Sentiment Analysis](https://github.com/Mossaabjelliti/arabic-sentiment-analysis)
+###  [Arabic Sentiment Analysis](https://github.com/Mossaabjelliti/arabic-sentiment-analysis)
 **Applied NLP analytics for Arabic social-media content**
 
 Python · Transformers · CAMeL-Lab · Scikit-learn · Plotly · Streamlit
 
 A transformer-based sentiment analysis pipeline combined with topic extraction and an interactive analytics dashboard.
 
-### 🛠️ [Bricola](https://github.com/Mossaabjelliti/Bricola)
+###  [Bricola](https://github.com/Mossaabjelliti/Bricola)
 **Local services marketplace for Tunisia**
 
 React · TypeScript · Firebase · Firestore · Capacitor · Leaflet
